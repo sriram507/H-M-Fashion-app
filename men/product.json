@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "name": "Loose Fit Sweatshirt",
+    "price": 1499.0,
+    "images": [
+      "../assets/mens section/Loose Fit Sweatshirt/96bfc306578f3d1d6d9650455067845da8cc9b35.avif",
+      "../assets/mens section/Loose Fit Sweatshirt/b92fb329d46373f19e36e009700e7b61b3eeb256.avif",
+      "../assets/mens section/Loose Fit Sweatshirt/e0d8250dfe2e3d9baec690f7302023a83062a574.avif",
+      "../assets/mens section/Loose Fit Sweatshirt/ef4ce3accaec8e216c6f3b979fc183017baea302.avif",
+      "../assets/mens section/Loose Fit Sweatshirt/f5c57a52c1ca8edb996a5de111411696d40caa7b.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 2,
+    "name": "Loose Jeans",
+    "price": 1999,
+    "images": [
+      "../assets/mens section/Loose Jeans/1e4e63cbadde9645213ce6e21ff9e98b4a402b2b.avif",
+      "../assets/mens section/Loose Jeans/22f124936affe35584b4d223daadb1bb1bdf3319.avif",
+      "../assets/mens section/Loose Jeans/28f7783899fb38e017534d36fb647fe082c02c30.avif",
+      "../assets/mens section/Loose Jeans/2c77a9ff7cf1bc0cd4f2c2c94c23cff06ea3d555.avif",
+      "../assets/mens section/Loose Jeans/acc0bde91eba565b43d3e133ca09522f0a499a81.avif",
+      "../assets/mens section/Loose Jeans/d8ae5bb37010507a3ff9d5dc9bc0b1f9c02bcc6c.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 3,
+    "name": "Oversized Fit Hooded Jacket",
+    "price": 2999,
+    "images": [
+      "../assets/mens section/Oversized Fit Hooded Jacket/01689eebce40d3bd664e49c84681d64b02dfa6e4.avif",
+      "../assets/mens section/Oversized Fit Hooded Jacket/37df83035be3f931a308e8de262fb6c294d07772.avif",
+      "../assets/mens section/Oversized Fit Hooded Jacket/8df700fdbb45661c5c13ef5751f2a0827422ab05.avif",
+      "../assets/mens section/Oversized Fit Hooded Jacket/982483760cd37bdcfbeb0d7f2de9a0313b7682b2.avif",
+      "../assets/mens section/Oversized Fit Hooded Jacket/d755c19f77c6eab39805d95296b7c9b93f373eef.avif",
+      "../assets/mens section/Oversized Fit Hooded Jacket/d8c203f0b4f83e2ed951a972ab5f92d8ebcef04d.avif",
+      "../assets/mens section/Oversized Fit Hooded Jacket/fb58ed5d0bb6ac36c3ff540dd3dea421d3c0ae7a.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 4,
+    "name": "Regular Fit Corduroy Pants",
+    "price": 2999,
+    "images": [
+      "../assets/mens section/Regular Fit Corduroy Pants/4e0eef6b27f25d811531c1563d0dffbc197fa6c7.avif",
+      "../assets/mens section/Regular Fit Corduroy Pants/5ec029107bd075f69475f17ea6c171b0029c695b.avif ",
+      "../assets/mens section/Regular Fit Corduroy Pants/606ab01d03f756755b800471bb19e0802e4ea5c2.avif",
+      "../assets/mens section/Regular Fit Corduroy Pants/7acffe55d10e1087bc8f0f43c25538af760defc8.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 5,
+    "name": "Regular Fit Corduroy Pants",
+    "price": 2499,
+    "images": [
+      "../assets/mens section/Regular Fit Corduroy Pants2/0ad2e7a0336d5a28499bd095c97b2ad942d7caf4.avif",
+      "../assets/mens section/Regular Fit Corduroy Pants2/38c097a60898ef42201eb0f61f5f95e87a2e6d91.avif",
+      "../assets/mens section/Regular Fit Corduroy Pants2/81f31d2bf1c5a31cb9f6d76189d50e355a63d8dc.avif",
+      "../assets/mens section/Regular Fit Corduroy Pants2/f0fdb1ae13cde447d3f7b451e385397f1cc69dae.avif",
+      "../assets/mens section/Regular Fit Corduroy Pants2/fe3199f61201c6c0cc31c75400113b721cdcc3ee.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 6,
+    "name": "Regular Fit Corduroy Shirt",
+    "price": 1499,
+    "images": [
+      "../assets/mens section/Regular Fit Corduroy Shirt/36347522f8e8027fabbff3e4eaedd7739799f713.avif",
+      "../assets/mens section/Regular Fit Corduroy Shirt/4f09334e7dd73894635924d1129d4b03ae2e2176.avif",
+      "../assets/mens section/Regular Fit Corduroy Shirt/69848887ee24a9aba31a51eff633cb0d8249c287.avif ",
+      "../assets/mens section/Regular Fit Corduroy Shirt/82b4e6fe0f3277a5406c1f4b4d39eeafa7292613.avif",
+      "../assets/mens section/Regular Fit Corduroy Shirt/b7e4eb7c7bbf07c3eea7313a8bf70090d92ea125.avif",
+      "../assets/mens section/Regular Fit Corduroy Shirt/f5209007858d16fc4fb4a1873494dace8dcbe898.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 7,
+    "name": "Regular Fit Rhinestone-Embellished Jacket",
+    "price": 3499,
+    "images": [
+      "../assets/mens section/Regular Fit Rhinestone-Embellished Jacket/174ea5ac2b6e145e1b9c05cde9c0a09149d84f8f.avif",
+      "../assets/mens section/Regular Fit Rhinestone-Embellished Jacket/590fd3305b1d18eebc72b9c8c9c9acffd8b959c5.avif",
+      "../assets/mens section/Regular Fit Rhinestone-Embellished Jacket/6098958f8f25d5a1df847fdf343736ad2ac07919.avif",
+      "../assets/mens section/Regular Fit Rhinestone-Embellished Jacket/749779be7f2b740899f34e04044ce686ecd43636.avif",
+      "../assets/mens section/Regular Fit Rhinestone-Embellished Jacket/aba087ad22283cc585a72329a54bce0eac819165.avif",
+      "../assets/mens section/Regular Fit Rhinestone-Embellished Jacket/fe457857780dda667fb21f326e784579f7e6c8ec.avif "
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 8,
+    "name": "Regular Fit Ribbed Polo Shirt",
+    "price": 1499,
+    "images": [
+      "../assets/mens section/Regular Fit Ribbed Polo Shirt/390d1ef8f1356a29ceac5795bd79e4118bf6c1fa.avif",
+      "../assets/mens section/Regular Fit Ribbed Polo Shirt/6a04487b0da00bdfe6ba754201102b8f5afc0f03.avif",
+      "../assets/mens section/Regular Fit Ribbed Polo Shirt/e98802791c2d686e876e2c145a7aecaaeae880f1.avif",
+      "../assets/mens section/Regular Fit Ribbed Polo Shirt/ec3ee5059e1a326b2346e9baa93aedace47db076.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 9,
+    "name": "Regular Fit Tapered Joggers",
+    "price": 2999,
+    "images": [
+      "../assets/mens section/Regular Fit Tapered Joggers/aaab0a072d93f6ead0142abd21ad1abffb749e66.avif",
+      "../assets/mens section/Regular Fit Tapered Joggers/536e48ee5deeb2c9050cb30e362554427fd1366f.avif",
+      "../assets//mens section/Regular Fit Tapered Joggers/6e470bfd11a8782e3293b91d24beb2cb540db1b5.avif",
+     "../assets/mens section/Regular Fit Tapered Joggers/d52aa56dbb19163d3af3f82471937183e6888caa.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 10,
+    "name": "Slim Fit Cotton Chinos",
+    "price": 2499,
+    "images": [
+      "../assets/mens section/Slim Fit Cotton Chinos/7bad34bc5d8218ea3204d1ac74fb2ac9226b9c4a.avif ",
+      "../assets/mens section/Slim Fit Cotton Chinos/1a1dd20e60745fbbb9957037a6e99139b5553bdb.avif",
+      "../assets/mens section/Slim Fit Cotton Chinos/32d340c5326df739310a350dfc9e837ce4ae5ace.avif ",
+      "../assets/mens section/Slim Fit Cotton Chinos/6f7f8b4796a85d8155a527ccd3bc016a1bff8637.avif",
+       "../assets/mens section/Slim Fit Cotton Chinos/a269a78db05f113cf896cb1cc0f2811a74ca0390.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 11,
+    "name": "Slim Fit Pants",
+    "price": 1499,
+    "images": [
+      "../assets/mens section/Slim Fit Pants/d51a9a0a2d75e326cc602de431df9fe49cbfe755.avif",
+      "../assets/mens section/Slim Fit Pants/695e3c2197992b3019b5add61506a3335bea70ce.avif ",
+      "../assets/mens section/Slim Fit Pants/9bce518347964b3c7729a45067fea07fd30a9ff1.avif",
+      "../assets/mens section/Slim Fit Pants/cb501d80bd30cd5f602a4eb052cdbc378021e061.avif",
+      "../assets/mens section/Slim Fit Pants/f8ecc8b14a1d4652ef8e522e7710644c78f6a74e.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 12,
+    "name": "Loose Fit Half-zip Sweatshirt",
+    "price": 1999,
+    "images": [
+      "../assets/mens section/THERMOLITE® Loose Fit Half-zip Sweatshirt/2c4906545a3bc3dd24993da58499934598707a06.avif",
+      "../assets/mens section/THERMOLITE® Loose Fit Half-zip Sweatshirt/7a22d91157a3a9c37a57f681a9a325a5f4ccea86.avif ",
+      "../assets/mens section/THERMOLITE® Loose Fit Half-zip Sweatshirt/e463b537b0d69bab9341e0f5e661790457b8b237.avif",
+      "../assets/mens section/THERMOLITE® Loose Fit Half-zip Sweatshirt/ebaddcb7aa8c0466e8b46cc10ed60cb67b97aca9.avif",
+      "../assets/mens section/THERMOLITE® Loose Fit Half-zip Sweatshirt/ec60591019cb744440fddfaf92b4a77f1af421af.avif "
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  }
+]

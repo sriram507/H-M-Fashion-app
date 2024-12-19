@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Receipt</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+      .container {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background: #f8f9fa;
+      }
+      h2 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+      }
+      th, td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+      }
+      th {
+        background: #f2f2f2;
+      }
+      .total {
+        text-align: right;
+      }
+      .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #28a745;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Order Receipt</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Item</th>
+            <th>Size</th>
+            <th>Price (₹)</th>
+            <th>Quantity</th>
+            <th>Total (₹)</th>
+          </tr>
+        </thead>
+        <tbody id="bill-items">
+          <!-- Bill items will be added here dynamically -->
+        </tbody>
+      </table>
+      <h4 class="total">Total Amount: ₹<span id="bill-total">0</span></h4>
+      <button onclick="window.print()" class="btn">Print Receipt</button>
+    </div>
+
+    <script src="bill.js"></script>
+  </body>
+</html>

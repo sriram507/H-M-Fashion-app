@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Hooded Teddy Fleece Jacket",
+    "price": 999.0,
+    "images": [
+       "../assets/kids/Hooded Teddy Fleece Jacket/fc1dbb560e7b079b552f64d0730b48b928e72a82.avif ",
+      "../assets/kids/Hooded Teddy Fleece Jacket/216c26f9a3c2a9a72d5bff6bd336060c9d454e31.avif ",
+      "../assets/kids/Hooded Teddy Fleece Jacket/62d7d9c188da24fe76b41db45b5a876f8fd0a9ef.avif ",
+      "../assets/kids/Hooded Teddy Fleece Jacket/99533e1f46c330cba6b752fc60a41938724c321a.avif"
+     
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 2,
+    "name": "Printed Joggers",
+    "price": 1499,
+    "images": [
+      "../assets/kids/Printed Joggers/1416222f1dcec1d8efc91eda22d399361c1fbcdd.avif ",
+      "../assets/kids/Printed Joggers/90f4ca228980bfe5d6f944d99699bf49a58aa6a9.avif "
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 3,
+    "name": "Printed Joggers",
+    "price": 1499,
+    "images": [
+      "../assets/kids/Printed Joggers2/27990a9719216254c9f47a1aca8e137d784ecb88.avif",
+      "../assets/kids/Printed Joggers2/27990a9719216254c9f47a1aca8e137d784ecb88.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 4,
+    "name": "Ribbed Tank Top",
+    "price": 999,
+    "images": [
+      "../assets/kids/Ribbed Tank Top/a6ee1091535e390c89ae3e5249ee9f152f959fa5.avif",
+      "../assets/kids/Ribbed Tank Top/a6ee1091535e390c89ae3e5249ee9f152f959fa5.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 5,
+    "name": "Shimmery Denim Skirt",
+    "price": 999,
+    "images": [
+      "../assets/kids/Shimmery Denim Skirt/219fcbcec1cb85ec458a2689f0b022b8b581ce90.avif",
+      "../assets/kids/Shimmery Denim Skirt/7bc88fb36cd8a8bdababa225881c70a85260f818.avif",
+      "../assets/kids/Shimmery Denim Skirt/9ce5c7392edb7df40bcdd398637858c021e9ab3a.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 6,
+    "name": "Shimmery Puffer Jacket",
+    "price": 999,
+    "images": [
+      "../assets/kids/Shimmery Puffer Jacket/d9c213e1898766a905f46ac5d9c5644fc73e4dc1.avif",
+      "../assets/kids/Shimmery Puffer Jacket/ea0cdf99d0a095d6a2dcd89da29ceb757b49c44a.avif",
+      "../assets/kids/Shimmery Puffer Jacket/f58f960ab1f15ef9489263e824a64a7e0720539b.avif"
+  
+  
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 7,
+    "name": "Superstretch Wide Leg Jeans",
+    "price": 1999,
+    "images": [
+      "../assets/kids/Superstretch Wide Leg Jeans/370594b237652454427634bc3f9f390b10c21475.avif",
+       "../assets/kids/Superstretch Wide Leg Jeans/41599f4e9215443043f515bed6665c8f9d590944.avif",
+       "../assets/kids/Superstretch Wide Leg Jeans/7007825cb5783e3f3826916da00b49dbac79bcdc.avif",
+       "../assets/kids/Superstretch Wide Leg Jeans/996e9ca6943c44f7d6d87f0cc97ec197bbdecd08.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 8,
+    "name": "Sweatshirtp",
+    "price": 1499,
+    "images": [
+      "../assets/kids/Sweatshirt/75f80e17b648cc02792916ddaa73cb592221798a.avif",
+      "../assets/kids/Sweatshirt/9fc24599bcaabf917def2310a6c6ab4299956a03.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 9,
+    "name": "Sweatshirt Dress",
+    "price": 1999,
+    "images": [
+      "../assets/kids/Sweatshirt Dress/208a0187f470fa285ee2d504f890d9b092d9535a.avif",
+      "../assets/kids/Sweatshirt Dress/208a0187f470fa285ee2d504f890d9b092d9535a.avif",
+      "../assets/kids/Sweatshirt Dress/208a0187f470fa285ee2d504f890d9b092d9535a.avif",
+      "../assets/kids/Sweatshirt Dress/208a0187f470fa285ee2d504f890d9b092d9535a.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 10,
+    "name": "Sweatshirt with Motif",
+    "price": 1999,
+    "images": [
+      "../assets/kids/Sweatshirt with Motif/61d751342e9b0b7f74a91473c0416a3c5446518a.avif ",
+      "../assets/kids/Sweatshirt with Motif/04f8d8dfc4a877ff3180f5b8fcc3aa99bcf660fc.avif ",
+      "../assets/kids/Sweatshirt with Motif/60f644084a9e315b449f4ff8bd849e55a3a179ac.avif ",
+      "../assets/kids/Sweatshirt with Motif/686dc41b42e7f87e789de1ef7d147884e98eaaf8.avif ",
+      "../assets/kids/Sweatshirt with Motif/b65febaf5a5c0488bcb5e9e36e4fdda14076671e.avif "
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 11,
+    "name": "Sweatshirt",
+    "price": 1499,
+    "images": [
+      "../assets/kids/Sweatshirt2/17cc0a5d0d28e88565202b38bde0c27620e697ac.avif",
+      "../assets/kids/Sweatshirt2/17cc0a5d0d28e88565202b38bde0c27620e697ac.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  },
+  {
+    "id": 12,
+    "name": "Textured Jersey Dress",
+    "price": 1999,
+    "images": [
+      "../assets/kids/Textured Jersey Dress/b458c59d067db7ce7638eaf7bc0d61fab040ee0f.avif",
+      "../assets/kids/Textured Jersey Dress/b458c59d067db7ce7638eaf7bc0d61fab040ee0f.avif"
+    ],
+    "sizes": [" 2T (1½-2Y) ", " 3/4T (2-4Y) ", " 5T/6 (4-6Y)  ", "  6X/7 (6-8Y)  "]
+  }
+]

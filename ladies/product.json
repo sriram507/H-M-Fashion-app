@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Fine-Knit Polo Shirt",
+    "price": 999.0,
+    "images": [
+      "../assets/ladies section/Fine-Knit Polo Shirt/032d73bb0c6f8dcbe4a514f02529e24dad75cdb1.avif",
+      "../assets/ladies section/Fine-Knit Polo Shirt/3069f199c152d26c4b29d6c07d16a9f27a1099dd.avif",
+      "../assets/ladies section/Fine-Knit Polo Shirt/3744aceb9d3f43a5daf3264bd891e736a7a63c0f.avif",
+      "../assets/ladies section/Fine-Knit Polo Shirt/7d84d73ceb2d7eef87799f40a978e30f59608812.avif",
+      "../assets/ladies section/Fine-Knit Polo Shirt/92d3cde1aaf1d71dd9630ee3022963286299553f.avif",
+      "../assets/ladies section/Fine-Knit Polo Shirt/e6403f4522db1b0ff23670a495734c0f064dd486.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 2,
+    "name": "Flounce-Trimmed Denim Blouse",
+    "price": 1999,
+    "images": [
+      "../assets/ladies section/Flounce-Trimmed Denim Blouse/2449e78051341d2670c7feb4eb182981315c6338.avif",
+      "../assets/ladies section/Flounce-Trimmed Denim Blouse/58b449e4c2fbe42bddde83b2646f9c25bfa7b684.avif",
+      "../assets/ladies section/Flounce-Trimmed Denim Blouse/8b1831e22031be136085720ddbda60f849a19882.avif",
+      "../assets/ladies section/Flounce-Trimmed Denim Blouse/b23c0aa284311ff72f90f0c763afae8c57692120.avif",
+      "../assets/ladies section/Flounce-Trimmed Denim Blouse/b52b27dcdd09347041ac9bae1e00ce5bd8814bb3.avif",
+      "../assets/ladies section/Flounce-Trimmed Denim Blouse/ce6eba790240e0e5321519eda1fabbc192e0fd82.avif",
+      "../assets/ladies section/Flounce-Trimmed Denim Blouse/ffd8cef2c4207cf85c79f3c9c799b0d979d02051.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 3,
+    "name": "Cardigan with Collar",
+    "price": 2999,
+    "images": [
+      "../assets/ladies section/Cardigan with Collar/2d45c9141e2771b9abca80ffa79f2d3898ada08e.avif",
+      "../assets/ladies section/Cardigan with Collar/422ab8179d0743545c9b01b513f690a84ec69f81.avif",
+      "../assets/ladies section/Cardigan with Collar/46d5498e43031f6e8a5e2316c46790c1c8b25765.avif",
+      "../assets/ladies section/Cardigan with Collar/a2b83ea01d75ddf83146182fd79008de2b5d35c2.avif",
+      "../assets/ladies section/Cardigan with Collar/c34cdba0c4df4e2d800f68832d1652b83119a01b.avif",
+      "../assets/ladies section/Cardigan with Collar/d0da052c8adbb7cc73843b047583afb7eec687a3.avif",
+      "../assets/ladies section/Cardigan with Collar/117c625067c0424c1a0251e5c86c7b8f5052d0b8.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 4,
+    "name": "Jacquard-weave Tie-back Dress",
+    "price": 2999,
+    "images": [
+      "../assets/ladies section/Jacquard-weave Tie-back Dress/80adfdb960f86955e2ad708aafac6397642b9d0c.webp",
+      "../assets/ladies section/Jacquard-weave Tie-back Dress/3afd36db8234966e2ea5d5ecc3bbe0d25022daeb.avif",
+      "../assets/ladies section/Jacquard-weave Tie-back Dress/7fa58c1b898af1a3e387bc94726023370b67e2d5.webp",
+      "../assets/ladies section/Jacquard-weave Tie-back Dress/d06be549e1f9d7a7abeafc9732aa69a55173826b.avif",
+      "../assets/ladies section/Jacquard-weave Tie-back Dress/f0c7ef47cd3289f412b711e5865f2b2a95850aeb.avif",
+      "../assets/ladies section/Jacquard-weave Tie-back Dress/f13ed78dbaf3eedc4cc7ed46c196e75fb018b694.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 5,
+    "name": "Double-breasted Coat",
+    "price": 2999,
+    "images": [
+      "../assets/ladies section/Double-breasted Coat/19ffbf62e0c3d2dcff0f47651f5e7e8d87d94211.avif",
+      "../assets/ladies section/Double-breasted Coat/723ae0327e7d9dcebc06bd4e97b4216f9bcbb54e.avif",
+      "../assets/ladies section/Double-breasted Coat/8df493eb770b927e1f3ee66c74085e88f686f789.avif",
+      "../assets/ladies section/Double-breasted Coat/952036db251f9a6a980ef208eb61a15af4d42411.avif",
+      "../assets/ladies section/Double-breasted Coat/c0986a1df567fd7f4fb5a22c9a7cda69b30eb2dc.avif",
+      "../assets/ladies section/Double-breasted Coat/e8a333bc4b650eba0a5cbc465479a99615b812ad.avif",
+      "../assets/ladies section/Double-breasted Coat/19da7810c07271a3414824344f538a4f9302ebc5.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 6,
+    "name": "Oversized Sweatshirt",
+    "price": 999,
+    "images": [
+      "../assets/ladies section/Oversized Sweatshirt/215468ce397fa9613db7b765fec19da04aadefe7.avif",
+      "../assets/ladies section/Oversized Sweatshirt/3b8c94fedc4e37f6a31df337879243f4482e3349.avif",
+      "../assets/ladies section/Oversized Sweatshirt/644f76ff1aac8f2695008895cd66484cd9999591.avif",
+      "../assets/ladies section/Oversized Sweatshirt/a8b3e7be7b3864ff0ae1e369c66a3b2de953f8ce.avif",
+      "../assets/ladies section/Oversized Sweatshirt/e54ca976c6b0b9065eff174454b033fcb3b86839.avif",
+      "../assets/ladies section/Oversized Sweatshirt/efc82c38b99f5459fc9cffd5f0ea1684bbe79ba9.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 7,
+    "name": "Rhinestone-Embellished Mini Dress",
+    "price": 2999,
+    "images": [
+      "../assets/ladies section/Rhinestone-Embellished Mini Dress//363ad55268d1ee1e4c7abe171c0a9419ae95f901.avif",
+      "../assets/ladies section/Rhinestone-Embellished Mini Dress/411f31d94074caf59efaf121ddcd701e12ecae2d.avif",
+      "../assets/ladies section/Rhinestone-Embellished Mini Dress/9d6b2e3e200904da46d1bd7d630a1a9f5941ce15.avif",
+      "../assets/ladies section/Rhinestone-Embellished Mini Dress/a60fffd6b6472b7ebf68d0e787d3ac1466e9519d.avif",
+      "../assets/ladies section/Rhinestone-Embellished Mini Dress/ba2a9fc2c419c2536db4bd02654a9d87184bba61.avif",
+      "../assets/ladies section/Rhinestone-Embellished Mini Dress/dd7129ade577784e271a39544fb367f3a17d935c.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 8,
+    "name": "Ribbed Modal-blend Top",
+    "price": 1499,
+    "images": [
+      "../assets/ladies section/Ribbed Modal-blend Top/01ee50c586a137590b7677dba3d37e2e7acc9b56.avif",
+      "../assets/ladies section/Ribbed Modal-blend Top/540b7d4d41ebff55a2f7f7b249053de9523bf9c5.avif",
+      "../assets/ladies section/Ribbed Modal-blend Top/e44e63953a6baa89a3f4d7cd9cba3e67b444242a.avif",
+      "../assets/ladies section/Ribbed Modal-blend Top/eb4a9d021b02cf099dbe9f21be53d5ad8f483877.avif",
+      "../assets/ladies section/Ribbed Modal-blend Top/f1b54b65f274130aae101ffbc3568251f5fc6062.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 9,
+    "name": "Maxi Skirts",
+    "price": 2999,
+    "images": [
+      "../assets/ladies section/Maxi Skirt/836ee22008a1039dd42889ed133b1707d2b9f2c7.avif",
+      "../assets/ladies section/Maxi Skirt/a7028776969bb3a561814bda959fae344782429b.avif",
+      "../assets/ladies section/Maxi Skirt/cea8336ab03ebddd072d9cebbc2773a617bfcf5d.avif",
+      "../assets/ladies section/Maxi Skirt/e01cb54d15816e44d9125c086abdc9e73788656e.avif",
+      "../assets/ladies section/Maxi Skirt/fedc1f203768ac2a8b1b50d06c4750bdae31d12a.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 10,
+    "name": "Sequined Top",
+    "price": 2999,
+    "images": [
+      "../assets/ladies section/Sequined Top/283fb30f1c3b6731df226617442068a07c344fc2.avif",
+      "../assets/ladies section/Sequined Top/4d0663c60daf81ca408186357fec71ddfa4cd1e3.avif",
+      "../assets/ladies section/Sequined Top/7e1331699f25c331c2d3603fb67afacdeac121e7.avif",
+      "../assets/ladies section/Sequined Top/d1e7ed28b2d760d4a315d4916c314d0edb3277ff.avif",
+      "../assets/ladies section/Sequined Top/d5fee7f91e679ce9d48fa91d95628b4ff8a41c33.avif",
+      "../assets/ladies section/Sequined Top/eb7fb6faf2e3a7109e0e7067bee586ea33691359.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 11,
+    "name": "",
+    "price": 1499,
+    "images": [
+      "../assets/ladies section/Wide-Leg Dress Pants/69d9460ea42cf1d82dea5513548fcd145aa9fe69.avif",
+      "../assets/ladies section/Wide-Leg Dress Pants/11bb60f798142c90b388fb712f2bb09f79eefd6e.avif",
+      "../assets/ladies section/Wide-Leg Dress Pants/5dbc08dcc62297045e1c7e4199b3f37c930da8ed.avif",
+      "../assets/ladies section/Wide-Leg Dress Pants/7579b6e34668264f97de5b7d5a5cf99dcd4c6139.avif",
+      "../assets/ladies section/Wide-Leg Dress Pants/8928beaefa972a8652d439ce3fe0a8a7075d074a.avif",
+      "../assets/ladies section/Wide-Leg Dress Pants/8d3b2734343dcee1a3bad007fae305b17721675d.avif",
+      "../assets/ladies section/Wide-Leg Dress Pants/9e185cf2875e41565e085e7baf708ab40fd175a8.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 12,
+    "name": "Sequined Top2",
+    "price": 1999,
+    "images": [
+      "../assets/ladies section/Sequined Top2/21b34a789bbe649efcc6e42250e7f86e27fbf759.avif",
+      "../assets/ladies section/Sequined Top2/00e39b2712549fdba77c3c214d6006ce3098c0fd.avif",
+      "../assets/ladies section/Sequined Top2/75a66651499c798bb88e4845b1e81a7e585de245.avif",
+      "../assets/ladies section/Sequined Top2/c419a1764a4c362b9271396da7a4c0ed375cb0d7.avif",
+      "../assets/ladies section/Sequined Top2/da32c65f8ccae5df8961ed59f44706f2321d5021.avif",
+      "../assets/ladies section/Sequined Top2/fedbf02ea9814ec9fdcd8c3e2aed1d55338afc0b.avif"
+    ],
+    "sizes": ["S", "M", "L", "XL"]
+  }
+]

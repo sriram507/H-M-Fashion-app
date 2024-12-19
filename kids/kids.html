@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kids Page</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <!-- Header Section with Horizontal Navbar -->
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img
+              src="../assets/ladies section/hm-logo.png"
+              alt="H&M"
+              height="40"
+            />
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="../index.html">H&M HOME</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Offers</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">New Arrivals</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Shop by product</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Sustainability</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"><i class="fas fa-heart"></i> Favourites</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"><i class="fas fa-shopping-bag"></i> Shopping bag (0)</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-image"></div>
+      <div class="hero-text">
+        <h1>Kids Fashion</h1>
+        <p>Explore our latest collection</p>
+      </div>
+    </section>
+
+    <!-- Featured Products Section -->
+    <section class="featured-products">
+      <h2 class="text-center my-4">Featured Products</h2>
+      <div class="container">
+        <div class="row" id="products-container">
+          <!-- Products will be loaded here from product.json using script.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+      <p>&copy; 2024 Fashion Store. All rights reserved.</p>
+    </footer>
+
+    <!-- JavaScript files -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>

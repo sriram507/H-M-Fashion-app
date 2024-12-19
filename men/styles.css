@@ -1,0 +1,94 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #000;
+    font-size: 14px;
+    margin-right: 15px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #d9534f;
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    height: 400px;
+    background: #f2e9e4;
+}
+
+.hero-image {
+    background-image: url('../assets/mens section/main.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+/* Product Card Styles */
+.product-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.product-card h3 {
+    margin: 15px 0;
+    font-size: 1.2rem;
+}
+
+.product-card p {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #f8f9fa;
+    font-size: 14px;
+    color: #666;
+}

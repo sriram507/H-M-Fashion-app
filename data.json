@@ -1,0 +1,69 @@
+{
+  "bannerData": [
+    {
+      "title": "Festive Offer",
+      "description": "Get 20% off on all products",
+      "image": "./assets/Blog_Banner_Dec_05 (1).png",
+      "buttonText": "Shop now",
+      "buttonLink": "./festive/festive.html"
+    }
+  ],
+  "sidebarData": [
+    {
+      "title": "Offers",
+      "links": [
+        {
+          "text": "Member exclusive prices",
+          "href": "./ladies/checkout.html"
+        },
+        {
+          "text": "20% off: First-time buyers",
+          "href": "./profile/profile.html"
+        }
+      ]
+    },
+    {
+      "title": "New Arrivals",
+      "links": [
+        {
+          "text": "New Products",
+          "href": "./index.html"
+        }
+      ]
+    },
+    {
+      "title": "Shop by Room",
+      "links": [
+        {
+          "text": "Bedroom",
+          "href": "#"
+        },
+        {
+          "text": "Living Room",
+          "href": "#"
+        },
+        {
+          "text": "Kitchen",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "campaignData": [
+    {
+      "title": "The 2024 Festive Capsule",
+      "description": "An exclusive holiday edit.",
+      "image": "./assets/6030-W-Panthera-Campaign-image-3x2-2.avif",
+      "buttonText": "Shop now",
+      "buttonLink": "./ladies/ladies.html"
+    },
+    {
+      "title": "Elevated fall fits",
+      "description": "Gear up with refined essentials for a laid-back vibe.",
+      "image": "./assets/6030-3x2-Panthera-Top-Image-M.avif",
+      "buttonText": "Shop now",
+      "buttonLink": "./men/index.html"
+    }
+  ]
+}
+

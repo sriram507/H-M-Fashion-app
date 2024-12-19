@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H&M Fashion App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="./assets/hm-logo.png" alt="H&M" height="40">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item"><a class="nav-link" href="./ladies/ladies.html">Ladies</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./men/men.html">Men</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./kids/kids.html">Kids</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./index.html">H&M HOME</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./sustainability/sustainability.html">Sustainability</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./profile/profile.html">Profile</a></li>
+                </ul>
+                <form class="d-flex" id="searchForm">
+                    <input class="form-control me-2" type="search" placeholder="Search products..." id="searchInput">
+                    <button class="btn btn-outline-dark" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mt-4">
+        <div class="row">
+            <!-- Sidebar Section -->
+            <div class="col-md-1 sidebar">
+                <!-- Sidebar content will be loaded here dynamically -->
+            </div>
+
+            <!-- Banner and Campaign Section -->
+            <div class="col-md-11">
+                <div class="banner mb-4">
+                    <!-- Banner content will be loaded here dynamically -->
+                </div>
+
+                <!-- Campaign Carousel Section -->
+                <div id="campaignCarousel" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner" id="campaign-carousel-content">
+                        <!-- JavaScript will inject campaign items here -->
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#campaignCarousel" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#campaignCarousel" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- Video Section -->
+<div class="video-section mt-4">
+    <video autoplay muted loop playsinline>
+        <source src="./assets/4000_Adorables_HMCOM_6D_16-9.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <button class="shop-now-button" onclick="window.location.href='./kids/kids.html';">Shop Now<br>Kids</button>
+</div>
+
+<!-- Video Section -->
+<div class="video-section mt-4">
+    <video autoplay muted loop playsinline>
+        <source src="./assets/HM_TAKE_CARE_TRAILER_16x9.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <button class="shop-now-button" onclick="window.location.href='./sustainability/sustainability.html';">Sustainability</button>
+</div>
+
+<!-- Card Section -->
+<div class="container mt-7">
+    <h2 class="text-center mb-4">Featured Collections</h2>
+    <div class="row">
+        <!-- Card 1 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/ladies section/Fine-Knit Polo Shirt/e6403f4522db1b0ff23670a495734c0f064dd486.avif" class="card-img-top" alt="Ladies Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Ladies Collection</h5>
+                    <p class="card-text">Explore the latest trends in ladies' fashion with our stunning collection.</p>
+                    <a href="./ladies/ladies.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 2 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/mens section/hmgoepprod (2).jpeg" class="card-img-top" alt="Men's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Men's Collection</h5>
+                    <p class="card-text">Find stylish and comfortable clothing options for men in our collection.</p>
+                    <a href="./men/men.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 3 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/kids/hmgoepprod3.jpeg" class="card-img-top" alt="Kids Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Kids Collection</h5>
+                    <p class="card-text">Discover adorable and durable clothes for kids in various styles and colors.</p>
+                    <a href="./kids/kids.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 4 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/mens section/hmgoepprod (12).jpeg" class="card-img-top" alt="Men's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Men's Collection</h5>
+                    <p class="card-text">Find stylish and comfortable clothing options for men in our collection.</p>
+                    <a href="./men/index.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 5 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/mens section/Oversized Fit Hooded Jacket/8df700fdbb45661c5c13ef5751f2a0827422ab05.avif" class="card-img-top" alt="Men's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Men's Collection</h5>
+                    <p class="card-text">Find stylish and comfortable clothing options for men in our collection.</p>
+                    <a href="./men/index.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 6 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/mens section/hmgoepprod (10).jpeg" class="card-img-top" alt="Men's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Men's Collection</h5>
+                    <p class="card-text">Find stylish and comfortable clothing options for men in our collection.</p>
+                    <a href="./men/index.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 7 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/ladies section/hmgoepprod (8).jpeg" class="card-img-top" alt="ladies's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Ladies Collection</h5>
+                    <p class="card-text">Explore the latest trends in ladies' fashion with our stunning collection.</p>
+                    <a href="./ladies/ladies.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 8 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/ladies section/hmgoepprod (9).jpeg" class="card-img-top" alt="ladies's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Ladies Collection</h5>
+                    <p class="card-text">Explore the latest trends in ladies' fashion with our stunning collection.</p>
+                    <a href="./ladies/ladies.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 9 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/ladies section/hmgoepprod (11).jpeg" class="card-img-top" alt="ladies's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Ladies Collection</h5>
+                    <p class="card-text">Explore the latest trends in ladies' fashion with our stunning collection.</p>
+                    <a href="./ladies/ladies.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 10 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/kids/hmgoepprod9.jpeg" class="card-img-top" alt="kids's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Kids Collection</h5>
+                    <p class="card-text">Discover adorable and durable clothes for kids in various styles and colors.</p>
+                    <a href="./kids/kids.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 11 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/kids/hmgoepprod10.jpeg" class="card-img-top" alt="Kids's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Kids Collection</h5>
+                    <p class="card-text">Discover adorable and durable clothes for kids in various styles and colors.</p>
+                    <a href="./kids/kids.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card 12 -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="./assets/kids/hmgoepprod12.jpeg" class="card-img-top" alt="Kids's Collection">
+                <div class="card-body">
+                    <h5 class="card-title">Kids Collection</h5>
+                    <p class="card-text">Discover adorable and durable clothes for kids in various styles and colors.</p>
+                    <a href="./kids/kids.html" class="btn btn-primary">Shop Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <!-- Footer -->
+    <footer class="mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h6>SHOP</h6>
+                    <ul>
+                        <li><a href="./ladies/ladies.html">Ladies</a></li>
+                        <li><a href="./men/men.html">Men</a></li>
+                        <li><a href="./kids/kids.html">Kids</a></li>
+                        <li><a href="./index.html">H&M HOME</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h6>CORPORATE INFO</h6>
+                    <ul>
+                        <li><a href="./About/About.html">About H&M</a></li>
+                        <li><a href="./sustainability/sustainability.html">Sustainability</a></li>
+                        <li><a href="./careers/careers.html">Careers</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h6>HELP</h6>
+                    <ul>
+                        <li><a href="./customer service/index.html">Customer Service</a></li>
+                        <li><a href="./index.html">Find a Store</a></li>
+                        <li><a href="./contact page/contactindex.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
