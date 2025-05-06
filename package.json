@@ -1,0 +1,26 @@
+{
+  "name": "h-m-fashion-app",
+  "version": "1.0.0",
+  "description": "H&M Fashion App",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server --port=3000 --open=index.html",
+    "build": "echo 'Frontend build complete'",
+    "test": "echo 'No tests configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriram507/H-M-Fashion-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sriram507/H-M-Fashion-app/issues"
+  },
+  "homepage": "https://github.com/sriram507/H-M-Fashion-app#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
